@@ -13,7 +13,7 @@ function App() {
      <SimpleTabs/>
       <BrowserRouter>
           <Switch>
-            <Route exact path='/Table' component={Table1}/>
+            
             
           </Switch>
         </BrowserRouter>   
